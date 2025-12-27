@@ -40,6 +40,9 @@ This project is created for demonstration, learning, and basic TTS integration u
 - Better UI
 
 ## 🤝 Contributing
+BIG THANKS 🙏♥️ to 
+*** PARSHANT MORWAL***
+
 Pull requests are welcome.  
 Feel free to fork and improve the project.
 
